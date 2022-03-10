@@ -1,0 +1,18 @@
+{
+    "uni-app": {
+        "scripts": {
+            "mp-dingtalk": {
+                "title": "thank tank",
+                "env": {
+                    "UNI_PLATFORM": "mp-alipay"
+                },
+                "define": {
+                    "MP-DINGTALK": true
+                }
+            }
+        }
+    },
+    "dependencies": {
+        "uview-ui": "^2.0.28"
+    }
+}

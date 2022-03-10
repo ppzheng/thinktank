@@ -1,0 +1,1 @@
+<view class="invite_content"><image class="invite_bg" src="../../static/images/invite_banner.png" mode="widthFix"></image><button data-event-opts="{{[['tap',[['onclick',['$event']]]]]}}" class="invite_btn" bindtap="__e">邀请好友获得免费机会</button></view>

@@ -1,0 +1,1 @@
+<view class="vip_content"><text class="text">在电脑浏览器里输入以下链接，</text><text class="text">进入PC版查看</text><text class="site">{{site}}</text><button class="vip_btn" size="large" data-event-opts="{{[['tap',[['copy',['$0'],['site']]]]]}}" bindtap="__e">复制链接</button></view>

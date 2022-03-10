@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "云享智库",
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "uni-card": "/components/uni-card/uni-card",
+    "uni-list": "/components/uni-list/uni-list",
+    "uni-list-item": "/components/uni-list-item/uni-list-item"
+  }
+}

@@ -1,0 +1,1 @@
+<view class="content_list"><block wx:for="{{list}}" wx:for-item="item" wx:for-index="index"><uni-list vue-id="{{'5b111dba-1-'+index}}" border="false" bind:__l="__l" vue-slots="{{['body']}}"><view class="order_list" slot="body"><text class="content">{{item.content}}</text><text class="date">{{item.time}}</text></view></uni-list></block></view>
